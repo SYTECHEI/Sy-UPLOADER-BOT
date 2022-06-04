@@ -1,4 +1,4 @@
-#### [UPLOADER-BOT](https://t.me/uploader_x_bot)
+#### [UPLOADER-BOT](https://t.me/Sy_url_bot)
 
 [![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
 
